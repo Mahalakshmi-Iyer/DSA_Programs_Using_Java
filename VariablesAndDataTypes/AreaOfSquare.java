@@ -1,4 +1,4 @@
-package Day3;
+package VariablesAndDataTypes;
 
 import java.util.*;
 

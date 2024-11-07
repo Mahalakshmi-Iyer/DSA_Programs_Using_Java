@@ -1,4 +1,4 @@
-package Day4;
+package NumberSeriesProblems;
 
 import java.util.*;
 
