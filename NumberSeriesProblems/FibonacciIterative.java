@@ -22,5 +22,6 @@ public class FibonacciIterative {
             }
             System.out.println("Term " + n + " of the fibonacci series is " + third);
         }
+        sc.close();
     }
 }

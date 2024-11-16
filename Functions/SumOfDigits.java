@@ -9,6 +9,7 @@ public class SumOfDigits {
         int n = sc.nextInt();
 
         System.out.println("The sum of digits of " + n + " is " + digitSum(n));
+        sc.close();
     }
 
     public static int digitSum(int n) {

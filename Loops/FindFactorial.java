@@ -7,6 +7,7 @@ public class FindFactorial {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number to find factorial : ");
         int n = sc.nextInt();
+        sc.close();
 
         if (n == 0) {
             System.out.println("Factorial of 0 is 1");

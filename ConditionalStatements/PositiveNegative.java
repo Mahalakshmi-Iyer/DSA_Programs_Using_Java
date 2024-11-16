@@ -15,5 +15,7 @@ public class PositiveNegative {
         } else {
             System.out.println("You have entered zero");
         }
+
+        sc.close();
     }
 }

@@ -13,5 +13,6 @@ public class FeverCheck {
         } else {
             System.out.println("Yippie! You don't have fever");
         }
+        sc.close();
     }
 }

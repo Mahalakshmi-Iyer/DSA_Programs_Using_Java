@@ -10,6 +10,7 @@ public class BinaryToDecimal {
 
         int decNum = binToDec(binNum);
         System.out.println("The decimal form of " + binNum + " is " + decNum);
+        sc.close();
     }
 
     public static int binToDec(int binNum) {

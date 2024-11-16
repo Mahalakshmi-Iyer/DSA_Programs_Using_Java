@@ -47,5 +47,7 @@ public class WeekDay {
         } else {
             System.out.println(weekday);
         }
+
+        sc.close();
     }
 }

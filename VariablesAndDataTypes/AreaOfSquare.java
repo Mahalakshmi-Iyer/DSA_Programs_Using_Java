@@ -11,5 +11,6 @@ public class AreaOfSquare {
         float area = s * s;
 
         System.out.println("The area of the square is : " + area);
+        sc.close();
     }
 }

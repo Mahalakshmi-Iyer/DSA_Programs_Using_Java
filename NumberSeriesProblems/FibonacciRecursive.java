@@ -10,6 +10,7 @@ public class FibonacciRecursive {
         int ans = fib(n);
 
         System.out.println("Term " + n + " of the fibonacci series is " + ans);
+        sc.close();
     }
 
     public static int fib(int n) {

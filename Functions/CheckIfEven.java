@@ -11,6 +11,7 @@ public class CheckIfEven {
         boolean ans = isEven(n);
 
         System.out.println(ans ? "It is even" : "It is odd");
+        sc.close();
     }
 
     public static boolean isEven(int n) {

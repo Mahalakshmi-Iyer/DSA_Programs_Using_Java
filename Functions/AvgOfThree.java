@@ -12,6 +12,7 @@ public class AvgOfThree {
 
         float avg = calculateAvg(a, b, c);
         System.out.println("The average of these numbers is : " + avg);
+        sc.close();
     }
 
     public static float calculateAvg(int a, int b, int c) {

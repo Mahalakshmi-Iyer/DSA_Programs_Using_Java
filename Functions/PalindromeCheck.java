@@ -10,6 +10,7 @@ public class PalindromeCheck {
 
         int rev = findReverse(n);
         System.out.println((n == rev) ? "It is a palindrome number" : "It is not a palindrome number");
+        sc.close();
     }
 
     public static int findReverse(int n) {

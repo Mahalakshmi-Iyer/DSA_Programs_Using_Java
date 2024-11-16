@@ -17,6 +17,6 @@ public class TotalPrice {
 
         System.out.println("Total Price : " + total);
         System.out.println("Net amount : " + (total + gst));
-
+        sc.close();
     }
 }

@@ -14,5 +14,6 @@ public class AverageOf3 {
         int avg = sum / 3;
 
         System.out.println("The average of " + a + "," + b + " and " + c + " is " + avg);
+        sc.close();
     }
 }

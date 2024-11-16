@@ -22,5 +22,6 @@ public class CheckForPrime {
             }
             System.out.println((isPrime == true) ? "It is prime" : "It is composite");
         }
+        sc.close();
     }
 }

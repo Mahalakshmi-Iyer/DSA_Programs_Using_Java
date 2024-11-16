@@ -13,6 +13,7 @@ public class ArmstrongNumber {
             System.out.println(n + " is an Armstrong Number");
         else
             System.out.println(n + " is not an Armstrong Number");
+        sc.close();
     }
 
     public static boolean isArmstrong(int n) {
